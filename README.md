@@ -1,9 +1,7 @@
 # Руководство к проекту: Торговый терминал для буддийского магазинчика
 
-Автор: **Suhnea**  
-GitHub: [Suhnea](https://github.com/Suhnea)  
-Telegram: [Suhnea](https://t.me/Suhnea)  
-Itch.io: [Suhnea](https://suhnea.itch.io/)
+Автор:
+**Suhnea** в [GitHub](https://github.com/Suhnea) / [Telegram](https://t.me/Suhnea) / [Itch.io](https://suhnea.itch.io/).  
 
 ---
 
